@@ -1,2 +1,2 @@
 # English-French-SMT
-Statistical machine translation for English and French
+Statistical Machine Translation for English / French using EM algorithm (IBM - 1)
